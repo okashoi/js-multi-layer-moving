@@ -1,0 +1,28 @@
+.draw-area {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 500px;
+}
+
+.centered {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.darken {
+    background-color: #9e9d24;
+}
+
+.regular {
+    background-color: #cddc39;
+}
+
+.lighten {
+    background-color: #e6ee9c;
+}
